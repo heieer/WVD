@@ -4,7 +4,7 @@ I have tried to consolidate a lot of content available online to learn and to op
 
 ### Relevant exams
 
-- AZ-103/AZ-104 : Exam AZ-104 : Microsoft Azure Administrator ([Here](https://docs.microsoft.com/en-us/learn/certifications/exams/AZ-104))  
+- AZ-104 : Exam AZ-104 : Microsoft Azure Administrator ([Here](https://docs.microsoft.com/en-us/learn/certifications/exams/AZ-104))  
 - MD-100 : Exam MD-100 : Exam Windows 10 ([Here](https://docs.microsoft.com/en-us/learn/certifications/exams/md-100))  
 - MD-101 : Exam MD-101: Managing Modern Desktops ([Here](https://docs.microsoft.com/en-us/learn/certifications/exams/md-101))
 
@@ -35,9 +35,10 @@ I have tried to consolidate a lot of content available online to learn and to op
     - Review how to deploy Windows Virtual Desktop
     - Provision a Windows Virtual Desktop host pool
     - Configure apps and desktops for users
-  - Review how to deploy Windows Virtual Desktop ([Here](https://docs.microsoft.com/en-us/learn/modules/m365-deploy-wvd/introduction))
-    - Provision a Windows Virtual Desktop host pool
-    - Configure apps and desktops for users
+  - Optimize Windows Virtual Desktop in Microsoft Azure ([Here](https://docs.microsoft.com/en-us/learn/modules/m365-optimize-wvd/))
+    - Create separate roaming profiles for users by using FSLogix
+    - Migrate files and user profiles by using Azure File Sync
+    - Configure automatic scaling of session hosts
 
 #### Microsoft Partner Network
 
@@ -114,7 +115,7 @@ I have tried to consolidate a lot of content available online to learn and to op
 
 - Windows Virtual Desktop Cost Solution Configurator ([Here](https://github.com/Azure/azure-ocp-samples/blob/master/Windows%20Virtual%20Desktop/Pricing/Solution%20Configurator%20.xlsm)) + documentation ([Here](https://github.com/Azure/azure-ocp-samples/blob/master/Windows%20Virtual%20Desktop/Pricing/Solution%20Configurator%20How%20To.pptx))
 
-#### Azure Academy ([Here](https://www.youtube.com/channel/UC-MXgaFhsYU8PkqgKBdnusQ/videos?view=0&amp;sort=dd&amp;flow=grid)) (Thank You! [Dean Cefola](https://twitter.com/MSAzureAcademy))
+#### Azure Academy | Windows Virtual Desktop | WVD Series ([Here](https://www.youtube.com/playlist?list=PL-V4YVm6AmwXGvQ46W8mHkpvm6S5IIitK)) (Thank You! [Dean Cefola](https://twitter.com/MSAzureAcademy))
 
 - Windows Virtual Desktop - #01 - Deployment ([Here](https://www.youtube.com/watch?v=qtx3rippZJQ&amp;list=PL-V4YVm6AmwXGvQ46W8mHkpvm6S5IIitK&amp;index=13))
 - Windows Virtual Desktop - #02 - Management ([Here](https://www.youtube.com/watch?v=1q2ecz_mYeA&amp;list=PL-V4YVm6AmwXGvQ46W8mHkpvm6S5IIitK&amp;index=12))
