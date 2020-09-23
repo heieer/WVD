@@ -9,9 +9,9 @@ I have tried to consolidate a lot of content available online to learn and to op
 
 ## Relevant exams
 
-- AZ-104 : Exam AZ-104 : Microsoft Azure Administrator ([Here](https://docs.microsoft.com/en-us/learn/certifications/exams/AZ-104))  
-- MD-100 : Exam MD-100 : Exam Windows 10 ([Here](https://docs.microsoft.com/en-us/learn/certifications/exams/md-100))  
-- MD-101 : Exam MD-101: Managing Modern Desktops ([Here](https://docs.microsoft.com/en-us/learn/certifications/exams/md-101))
+- AZ-104 : Exam AZ-104 : Microsoft Azure Administrator ([Here](https://docs.microsoft.com/en-us/learn/certifications/exams/AZ-104)) (Virtual Training Session (MS Partner Only): [Here](https://partner.microsoft.com/en-us/training/assets/collection/az-103-microsoft-azure-administrator#/))
+- MD-100 : Exam MD-100 : Exam Windows 10 ([Here](https://docs.microsoft.com/en-us/learn/certifications/exams/md-100)) (Virtual Training Session (MS Partner Only): [Here](https://partner.microsoft.com/en-us/training/assets/collection/md-100-windows-10-1#/))  
+- MD-101 : Exam MD-101: Managing Modern Desktops ([Here](https://docs.microsoft.com/en-us/learn/certifications/exams/md-101)) (Virtual Training Session (MS Partner Only): [Here](https://partner.microsoft.com/en-us/training/assets/collection/md-101-managing-modern-desktops-1#//))  
 
 
 ## Relevant Role Based Certifications
