@@ -15,6 +15,7 @@ I have tried to consolidate a lot of content available online to learn and to op
 - Microsoft 365 Certified: Modern Desktop Administrator Associate ([Here](https://docs.microsoft.com/en-us/learn/certifications/m365-modern-desktop))  
 
 ### Selected Learning Activities
+
 #### Microsoft Learn
 
 - Deliver remote desktops and apps from Azure with Windows Virtual Desktop ([Here](https://docs.microsoft.com/en-us/learn/paths/m365-wvd/))
@@ -110,6 +111,7 @@ I have tried to consolidate a lot of content available online to learn and to op
 - Deployment best practices for latency-sensitive workloads ([Here](https://medius.studios.ms/Embed/video-nc/Denis-Gundarev))
 
 #### US Partner Windows Virtual Desktop Resource GitHub Repository ([Here](https://github.com/Azure/azure-ocp-samples/tree/master/Windows%20Virtual%20Desktop))
+
 - Windows Virtual Desktop Cost Solution Configurator ([Here](https://github.com/Azure/azure-ocp-samples/blob/master/Windows%20Virtual%20Desktop/Pricing/Solution%20Configurator%20.xlsm)) + documentation ([Here](https://github.com/Azure/azure-ocp-samples/blob/master/Windows%20Virtual%20Desktop/Pricing/Solution%20Configurator%20How%20To.pptx))
 
 #### Azure Academy ([Here](https://www.youtube.com/channel/UC-MXgaFhsYU8PkqgKBdnusQ/videos?view=0&amp;sort=dd&amp;flow=grid)) (Thank You! [Dean Cefola](https://twitter.com/MSAzureAcademy))
@@ -139,7 +141,12 @@ I have tried to consolidate a lot of content available online to learn and to op
 - Windows Virtual Desktop - #24 - Session Host Security ([Here](https://youtu.be/5aK6BoXcZnU))
 - Windows Virtual Desktop - #25 - TEAMS AV Redirections ([Here](https://youtu.be/RfbolIgPcBY))
 - Windows Virtual Desktop - #26 - GPU Powered VMs ([Here](https://youtu.be/IiRyc26_lds))
-
+- Windows Virtual Desktop - #27 - How to Setup Windows Virtual Desktop Monitoring Step by Step ([Here](https://www.youtube.com/watch?v=ERftVHEy5A4))
+- Windows Virtual Desktop - #28 - Windows Virtual Desktop Scaling Tool Generally Available ([Here](https://www.youtube.com/watch?v=4zDazJsa2Zk))
+- Windows Virtual Desktop - #29 - Windows Virtual Desktop Optimizations Nuff Said! ([Here](https://www.youtube.com/watch?v=tm2dSd695x8))
+- Windows Virtual Desktop - #30 - Before you turn off your Windows Virtual Desktop VMs YOU NEED TO WATCH THIS... ([Here](https://www.youtube.com/watch?v=1R0S5fpCm18))
+- Windows Virtual Desktop - #31 - You've never seen an Image Pipeline like this one | Azure Image Builde ([Here](https://www.youtube.com/watch?v=zIdOutv0doE))
+  
 #### Ciraltos - Travis Roberts - YouTube Video's
 
 - Automatically Start and Stop VM's in a Windows Virtual Desktop Host Pool with Azure Automation ([Here](https://www.youtube.com/watch?v=EUpPY6ateKA))
