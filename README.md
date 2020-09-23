@@ -2,6 +2,10 @@
 
 I have tried to consolidate a lot of content available online to learn and to operate Windows Virtual Desktop in Azure. I try to update the list from time to time.
 
+### 📢 What's new? 📢
+- What's new in Windows Virtual Desktop? ([Here](https://docs.microsoft.com/en-us/azure/virtual-desktop/whats-new))
+
+
 ### Relevant exams
 
 - AZ-104 : Exam AZ-104 : Microsoft Azure Administrator ([Here](https://docs.microsoft.com/en-us/learn/certifications/exams/AZ-104))  
