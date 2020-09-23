@@ -1,9 +1,8 @@
-*last update: 23/Sept/2020*
-
 # All You Need To Know on Windows Virtual Desktop
 
-I have tried to consolidate a lot of content available online to learn and to operate Windows Virtual Desktop in Azure. I try to update the list from time to time.
-Last update
+*last update: 23/Sept/2020*
+
+I have tried to consolidate a lot of content available online to learn and to operate Windows Virtual Desktop in Azure. I try to update the list from time to time. If you come across interesting information related to WVD, please contact me via [LinkedIn](https://www.linkedin.com/in/roelsbart/).
 
 ## What's new? 📢
 
