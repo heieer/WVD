@@ -171,8 +171,10 @@ Last update
 - How to deploy a Windows Virtual Desktop host pool using Infrastructure as code from Azure DevOps (by Tom Hickling) ([Here](http://xenithit.blogspot.com/2020/03/how-to-deploy-windows-virtual-dekstop.html))
 - Windows Virtual Desktop and IGEL OS : Better Together ([Webinar](https://youtu.be/dNi7_lpK-no))
 - WVD Demos Spring 2020: Guided Simulation for Windows Virtual Desktop. ([Here](https://octe.blob.core.windows.net/microsoft/Windows%20Virtual%20Desktop/WVD%20Spring%202020%20Updates%20Draft2/index.html#/0/0))
+- Desktop in the Cloud. Your new TechTalk with people from Microsoft Engineering and the world-wide virtual desktop community! Hosted by [Christiaan Brinkhoff](https://twitter.com/Brinkhoff_C) and [Dean Cefola](https://twitter.com/MSAzureAcademy) ([Here](https://www.youtube.com/channel/UCv0_Y1wcKvTnLOEmf-3S45Q/featured ))
 
 #### Windows Virtual Desktop related Blogs from [Robin Hobo (MVP)](https://www.robinhobo.com/about-me/) ([Here](https://www.robinhobo.com/category/microsoft/windows-virtual-desktop-wvd/))
+
   - How to create an Azure Service Principal for use with Windows Virtual Desktop AND Azure ARM Templates, like the ARM Template to Update an existing Windows Virtual Desktop hostpool ([Here](https://www.robinhobo.com/how-to-create-an-azure-service-principal-for-use-with-windows-virtual-desktop-and-azure-arm-templates-like-the-arm-template-to-update-an-existing-windows-virtual-desktop-hostpool/))
   - How to start OneDrive (and automatically sign-in) when using a RemoteApp in Windows Virtual Desktop ([Here](https://www.robinhobo.com/how-to-start-onedrive-and-automatically-sign-in-when-using-a-remoteapp-in-windows-virtual-desktop-wvd/))
   - Windows Virtual Desktop (WVD) Host Pool deployment error – Subscription is not registered ([Here](https://www.robinhobo.com/windows-virtual-desktop-wvd-host-pool-deployment-error-subscription-is-not-registered/))
@@ -188,14 +190,17 @@ Last update
   - How to change the default Windows Virtual Desktop “SessionDesktop” name to a more friendly one with PowerShell or GUI ([Here](https://www.robinhobo.com/how-to-change-the-default-windows-virtual-desktop-sessiondesktop-name-to-a-more-friendly-one-with-powershell/))
   - How to publish the Remote Server Administration Tools (RSAT) with Windows Virtual Desktop (WVD) ([Here](https://www.robinhobo.com/how-to-publish-the-remote-server-administration-tools-rsat-with-windows-virtual-desktop-wvd/))
   - How to get the Windows Virtual Desktop – Remote Desktop client for Windows – Insider version ([Here](https://www.robinhobo.com/how-to-get-the-windows-virtual-desktop-remote-desktop-client-for-windows-insider-version/))
+  - How to implement FSLogix Profile container using Azure Files and Active Directory authentication for Windows Virtual Desktop (WVD) ([Here](https://www.robinhobo.com/how-to-implement-fslogix-profile-container-using-azure-files-and-active-directory-authentication-for-windows-virtual-desktop-wvd/))
 
-  
 ### Windows Virtual Desktop related Blogs from [Micha Wets (MVP)](https://www.linkedin.com/in/micha-wets-0b994a5/)
 
   - Solution for the 0x204 error when connecting to Windows Virtual Desktop ([Here](https://www.cloud-architect.be/2020/04/19/solution-for-the-0x204-error-when-connecting-to-windows-virtual-desktop-wvd/))
   - Windows Virtual Desktop running on Ephemeral OS Disks ([Here](https://www.cloud-architect.be/2019/07/15/windows-virtual-desktop-running-on-ephemeral-os-disks/))  
   - Windows virtual desktop ARM templates for the Spring 2020 edition ([Here](https://www.cloud-architect.be/2020/06/19/windows-virtual-desktop-arm-templates-for-the-spring-2020-edition/))  
-  - Windows Virtual Desktop Spring 2020 edition workshop ([Here](https://www.cloud-architect.be/2020/06/22/windows-virtual-desktop-spring-2020-edition-workshop/)) ([Presentation](https://michawets.github.io/CA-Microsoft-WVD_ARM-Workshop/Presentation/MSFT%20Workshop%20-%20Windows%20Virtual%20Desktop.pdf)) ([Video Part 1](https://youtu.be/__Z4-zCNdlI)) ([Video Part 2](https://youtu.be/_j3IQfPfo_Q)) ([Video Part 3](https://youtu.be/6WCqaWWtyfY)) ([Hands On Lab Instructions](https://aka.ms/WVDWorkshop))
+  - Windows Virtual Desktop Spring 2020 edition workshop ([Here](https://www.cloud-architect.be/2020/06/22/windows-virtual-desktop-spring-2020-edition-workshop/))   
+  ([Presentation](https://michawets.github.io/CA-Microsoft-WVD_ARM-Workshop/Presentation/MSFT%20Workshop%20-%20Windows%20Virtual%20Desktop.pdf))  
+  ([Video Part 1](https://youtu.be/__Z4-zCNdlI)) ([Video Part 2](https://youtu.be/_j3IQfPfo_Q)) ([Video Part 3](https://youtu.be/6WCqaWWtyfY))  
+  ([Hands On Lab Instructions](https://aka.ms/WVDWorkshop))
 
     
 ### Windows Virtual Desktop related Blogs from [Freek Berson (MVP)](https://www.linkedin.com/in/freekberson/)
@@ -204,8 +209,9 @@ Last update
   - Migrating your existing WVD Workloads to WVD Spring Update! ([Here](https://medium.com/wortell/migrating-your-existing-wvd-workloads-to-wvd-spring-update-df942e1db5af))
   - Using WVD to provide secure and easy access to a management server in Azure! ([Here](https://medium.com/wortell/using-wvd-to-provide-secure-and-easy-access-to-a-management-server-in-azure-dd4b48649e5c))
   - Test driving the Microsoft Teams AV Redirection and media optimizations preview for WVD! ([Here](https://medium.com/wortell/test-driving-the-microsoft-teams-av-redirection-and-media-optimizations-preview-for-wvd-ffd14ea26719))
-  - New GitHub Script: Automating the transformation of MSIX packages into MSIX app attach, ready for WVD! ([Here](https://medium.com/wortell/new-github-script-automating-the-transformation-of-msix-packages-into-msix-app-attach-ready-for-4802a9820183))  
-  
+  - New GitHub Script: Automating the transformation of MSIX packages into MSIX app attach, ready for WVD! ([Here](https://medium.com/wortell/new-github-script-automating-the-transformation-of-msix-packages-into-msix-app-attach-ready-for-4802a9820183))
+  - Getting started with REST API for WVD ARM (Spring) release, and sharing my GitHub examples! ([Here](https://www.linkedin.com/pulse/getting-started-rest-api-wvd-arm-spring-release-sharing-freek-berson/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_post_details%3BeqgeoKekTIWM6zHsok6Xhw%3D%3D))
+  - MSIX app attach in action, bringing Google Sketchup to a GPU powered WVD Desktop in seconds! ([Here](https://www.linkedin.com/pulse/msix-app-attach-action-bringing-google-sketchup-gpu-empowered-berson/))
 
     
 ### Windows Virtual Desktop related Blogs from [Patrick Kohler](https://wvdlogix.net/about)
@@ -214,6 +220,9 @@ Last update
   - Windows Virtual Desktop Host Pool Automation - Part 2 ([Here](https://wvdlogix.net/windows-virtual-desktop-host-pool-automation-2))
   - Windows Virtual Desktop Host Pool Automation - Part 3 ([Here](https://wvdlogix.net/windows-virtual-desktop-host-pool-automation-part-3))([Video](https://youtu.be/M391QSEO1kM))
   - The complete guide: Microsoft Teams on WVD ([Here](https://wvdlogix.net/complete-guide-teams-on-wvd))
+  - Windows 10 StartMenu optimization ([Here](https://wvdlogix.net/ux-series-win10-startmenu-taskbar))
+  - Improve the WVD application landscape experience ([Here](https://wvdlogix.net/ux-series-wvd-application-landscape))
+  - Improve logon times without impacting the UX ([Here](https://wvdlogix.net/ux-series-improve-logon-times-without-impacting-the-ux))
 
     
 ### Windows Virtual Desktop related Blogs from [Christiaan Brinkhoff](https://www.christiaanbrinkhoff.com/about-me/) (Microsoft GBB WVD)
