@@ -90,14 +90,6 @@ Last update
 
 - Desktop virtualization using Windows Virtual Desktop-service architecture ([Here](https://docs.microsoft.com/en-us/windows-server/remote/remote-desktop-services/media/wvd-poster-download.png))
 
-### Microsoft Tech Community
-
-- Accelerate your RDS and VDI migration to Windows Virtual Desktop ([Here](https://techcommunity.microsoft.com/t5/Windows-IT-Pro-Blog/Accelerate-your-RDS-and-VDI-migration-to-Windows-Virtual-Desktop/ba-p/1079005))
-- A guide to Windows Virtual Desktop at Microsoft Ignite 2019 ([Here](https://techcommunity.microsoft.com/t5/Windows-IT-Pro-Blog/A-guide-to-Windows-Virtual-Desktop-at-Microsoft-Ignite-2019/ba-p/976831))
-- Getting started with FSLogix profile containers on Azure Files in Windows Virtual Desktop ([Here](https://techcommunity.microsoft.com/t5/Windows-IT-Pro-Blog/Getting-started-with-FSLogix-profile-containers-on-Azure-Files/ba-p/746477))
-- Getting started with Windows Virtual Desktop ([Here](https://techcommunity.microsoft.com/t5/Windows-IT-Pro-Blog/Getting-started-with-Windows-Virtual-Desktop/ba-p/391054))
-- Getting started: Windows Virtual Desktop ARM-based Azure portal ([Here](https://techcommunity.microsoft.com/t5/windows-it-pro-blog/getting-started-windows-virtual-desktop-arm-based-azure-portal/ba-p/1374466))
-
 ### Microsoft Mechanics
 
 - Windows Virtual Desktop Essentials - Intro and full tour ([Here](https://www.youtube.com/watch?v=NQFtI3JLtaU&amp;list=PLXtHYVsvn_b8KAKw44YUpghpD6lg-EHev))
@@ -158,7 +150,7 @@ Last update
 - Windows Virtual Desktop - #30 - Before you turn off your Windows Virtual Desktop VMs YOU NEED TO WATCH THIS... ([Here](https://www.youtube.com/watch?v=1R0S5fpCm18))
 - Windows Virtual Desktop - #31 - You've never seen an Image Pipeline like this one | Azure Image Builde ([Here](https://www.youtube.com/watch?v=zIdOutv0doE))
   
-### Ciraltos - Travis Roberts - YouTube Video's
+### Ciraltos - Travis Roberts - YouTube Playlist on WVD ([Here](https://www.youtube.com/playlist?list=PLnWpsLZNgHzXMtKjaQJf4Rn64W86nUDv1))
 
 - Automatically Start and Stop VM's in a Windows Virtual Desktop Host Pool with Azure Automation ([Here](https://www.youtube.com/watch?v=EUpPY6ateKA))
 - Azure Windows Virtual Desktop Load Balancing ([Here](https://www.youtube.com/watch?v=dRTcLtKVWZE))
@@ -167,6 +159,11 @@ Last update
 - Windows Virtual Desktop Validation Host Pools ([Here](https://youtu.be/n_P0MhRzrRw))
 - Windows Virtual Desktop JoinDomain Error ([Here](https://youtu.be/1RCCjpsTqcI))
 - Auto Start and Stop Session Hosts in Windows Virtual Desktop Spring Update (ARM) with Azure Function ([Here](https://youtu.be/gdrYMPwCB9w))
+- Windows Virtual Desktop JoinDomain Error ([Here](https://youtu.be/1RCCjpsTqcI))
+- Windows Virtual Desktop Email Discovery ([Here](https://youtu.be/R44fO7UPxtY))
+- Monitoring Windows Virtual Desktop Spring Update with Log Analytics and Azure Monitor ([Here](https://youtu.be/Rq8f4G5PXw0))
+- Back Up an Azure File Share with Azure Backup ([Here](https://youtu.be/xGNjE2XK2_E))
+- Enable MFA for WVD ARM ([Here](https://youtu.be/6tHknnFhrDI))
 
 ### Blogs / Video
 
