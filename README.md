@@ -1,17 +1,21 @@
+*last update: 23/Sept/2020*
+
 # All You Need To Know on Windows Virtual Desktop
 
 I have tried to consolidate a lot of content available online to learn and to operate Windows Virtual Desktop in Azure. I try to update the list from time to time.
+Last update
 
 ## What's new? 📢
 
 - What's new in Windows Virtual Desktop? ([Here](https://docs.microsoft.com/en-us/azure/virtual-desktop/whats-new))
+- Windows Virtual Desktop **UserVoice** ([Here](https://windowsvirtualdesktop.uservoice.com/forums/921118-general))
 
 
 ## Relevant exams
 
-- AZ-104 : Exam AZ-104 : Microsoft Azure Administrator ([Here](https://docs.microsoft.com/en-us/learn/certifications/exams/AZ-104)) (Virtual Training Session (MS Partner Only): [Here](https://partner.microsoft.com/en-us/training/assets/collection/az-103-microsoft-azure-administrator#/))
-- MD-100 : Exam MD-100 : Exam Windows 10 ([Here](https://docs.microsoft.com/en-us/learn/certifications/exams/md-100)) (Virtual Training Session (MS Partner Only): [Here](https://partner.microsoft.com/en-us/training/assets/collection/md-100-windows-10-1#/))  
-- MD-101 : Exam MD-101: Managing Modern Desktops ([Here](https://docs.microsoft.com/en-us/learn/certifications/exams/md-101)) (Virtual Training Session (MS Partner Only): [Here](https://partner.microsoft.com/en-us/training/assets/collection/md-101-managing-modern-desktops-1#//))  
+- AZ-104 : Exam AZ-104 : Microsoft Azure Administrator ([Here](https://docs.microsoft.com/en-us/learn/certifications/exams/AZ-104)) (Virtual Training Session (*MS Partner Only*): [Here](https://partner.microsoft.com/en-us/training/assets/collection/az-103-microsoft-azure-administrator#/))
+- MD-100 : Exam MD-100 : Exam Windows 10 ([Here](https://docs.microsoft.com/en-us/learn/certifications/exams/md-100)) (Virtual Training Session (*MS Partner Only*): [Here](https://partner.microsoft.com/en-us/training/assets/collection/md-100-windows-10-1#/))  
+- MD-101 : Exam MD-101: Managing Modern Desktops ([Here](https://docs.microsoft.com/en-us/learn/certifications/exams/md-101)) (Virtual Training Session (*MS Partner Only*): [Here](https://partner.microsoft.com/en-us/training/assets/collection/md-101-managing-modern-desktops-1#//))  
 
 
 ## Relevant Role Based Certifications
@@ -61,29 +65,30 @@ I have tried to consolidate a lot of content available online to learn and to op
 - Other useful Microsoft Partner Resources ([Here](https://www.microsoft.com/azure/partners/windows-virtual-desktop))
 
 ### Microsoft Docs ([Here](https://docs.microsoft.com/en-us/azure/virtual-desktop/overview))
+- Get started with the **Windows Virtual Desktop** ([Here](https://docs.microsoft.com/en-us/azure/virtual-desktop/))
 - What is Windows Virtual Desktop? ([Here](https://docs.microsoft.com/en-us/azure/virtual-desktop/overview))
-  - Create a tenant in Windows Virtual Desktop ([Here](https://docs.microsoft.com/en-us/azure/virtual-desktop/tenant-setup-azure-active-directory))
   - Create a host pool with Azure Marketplace ([Here](https://docs.microsoft.com/en-us/azure/virtual-desktop/create-host-pools-azure-marketplace))
   - Manage app groups for Windows Virtual Desktop ([Here](https://docs.microsoft.com/en-us/azure/virtual-desktop/manage-app-groups))
-  - Create service principals and role assignments with PowerShell ([Here](https://docs.microsoft.com/en-us/azure/virtual-desktop/create-service-principal-role-powershell))
+  - Create a host pool to validate service updates ([Here](https://docs.microsoft.com/en-us/azure/virtual-desktop/create-validation-host-pool))
+  - Set up service alerts ([Here](https://docs.microsoft.com/en-us/azure/virtual-desktop/set-up-service-alerts))
 - Storage options for FSLogix profile containers in Windows Virtual Desktop ([Here](https://docs.microsoft.com/en-us/azure/virtual-desktop/store-fslogix-profile))
+  - Create a profile container for a host pool using a file share ([Here](https://docs.microsoft.com/en-us/azure/virtual-desktop/create-host-pools-user-profile))
   - Create an FSLogix profile container for a host pool using Azure NetApp Files ([Here](https://docs.microsoft.com/en-us/azure/virtual-desktop/create-fslogix-profile-container))
+  - Create a profile container with Azure Files and Azure AD DS ([Here](https://docs.microsoft.com/en-us/azure/virtual-desktop/create-profile-container-adds))
+  - Create a profile container with Azure Files and AD DS ([Here](https://docs.microsoft.com/en-us/azure/virtual-desktop/create-file-share))
 - Set up MSIX app attach ([Here](https://docs.microsoft.com/en-us/azure/virtual-desktop/app-attach))
 - Windows Virtual Desktop partner integrations ([Here](https://docs.microsoft.com/en-us/azure/virtual-desktop/partners))
 - Windows 10 Enterprise multi-session FAQ ([Here](https://docs.microsoft.com/en-us/azure/virtual-desktop/windows-10-multisession-faq))
 - Azure Pricing Calculator for WVD ([Here](https://azure.microsoft.com/en-us/pricing/calculator/))
 - Windows Virtual Desktop Experience Estimator ([Here](https://azure.microsoft.com/en-us/services/virtual-desktop/assessment/))
-- Get started with the **Windows Virtual Desktop Spring 2020** Release ([Here](https://docs.microsoft.com/en-us/azure/virtual-desktop/))
 - Enable Azure Multi-Factor Authentication for Windows Virtual Desktop ([Here](https://docs.microsoft.com/en-us/azure/virtual-desktop/set-up-mfa))
-- 📢 What's new in Windows Virtual Desktop? ([Here](https://docs.microsoft.com/en-us/azure/virtual-desktop/whats-new))
+- Use Azure Advisor with Windows Virtual Desktop ([Here](https://docs.microsoft.com/en-us/azure/virtual-desktop/azure-advisor))
+- Use Microsoft Teams on Windows Virtual desktop ([Here](https://docs.microsoft.com/en-us/azure/virtual-desktop/teams-on-wvd))
+
 
 ### WVD Architectural – Planning Poster
 
 - Desktop virtualization using Windows Virtual Desktop-service architecture ([Here](https://docs.microsoft.com/en-us/windows-server/remote/remote-desktop-services/media/wvd-poster-download.png))
-
-### Windows Virtual Desktop UserVoice
-
-- UserVoice forum for Windows Virtual Desktop ([Here](https://windowsvirtualdesktop.uservoice.com/forums/921118-general))
 
 ### Microsoft Tech Community
 
