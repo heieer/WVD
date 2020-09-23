@@ -2,25 +2,26 @@
 
 I have tried to consolidate a lot of content available online to learn and to operate Windows Virtual Desktop in Azure. I try to update the list from time to time.
 
-### 📢 What's new? 📢
+## What's new? 📢
+
 - What's new in Windows Virtual Desktop? ([Here](https://docs.microsoft.com/en-us/azure/virtual-desktop/whats-new))
 
 
-### Relevant exams
+## Relevant exams
 
 - AZ-104 : Exam AZ-104 : Microsoft Azure Administrator ([Here](https://docs.microsoft.com/en-us/learn/certifications/exams/AZ-104))  
 - MD-100 : Exam MD-100 : Exam Windows 10 ([Here](https://docs.microsoft.com/en-us/learn/certifications/exams/md-100))  
 - MD-101 : Exam MD-101: Managing Modern Desktops ([Here](https://docs.microsoft.com/en-us/learn/certifications/exams/md-101))
 
 
-### Relevant Role Based Certifications
+## Relevant Role Based Certifications
 
 - Microsoft Certified: Azure Administrator Associate ([Here](https://docs.microsoft.com/en-us/learn/certifications/azure-administrator))  
 - Microsoft 365 Certified: Modern Desktop Administrator Associate ([Here](https://docs.microsoft.com/en-us/learn/certifications/m365-modern-desktop))  
 
-### Selected Learning Activities
+## Selected Learning Activities
 
-#### Microsoft Learn
+### Microsoft Learn
 
 - Deliver remote desktops and apps from Azure with Windows Virtual Desktop ([Here](https://docs.microsoft.com/en-us/learn/paths/m365-wvd/))
   - Introduction to Windows Virtual Desktop in Microsoft Azure ([Here](https://docs.microsoft.com/en-us/learn/modules/m365-wvd-intro/introduction))
@@ -44,7 +45,7 @@ I have tried to consolidate a lot of content available online to learn and to op
     - Migrate files and user profiles by using Azure File Sync
     - Configure automatic scaling of session hosts
 
-#### Microsoft Partner Network
+### Microsoft Partner Network
 
 - Windows Virtual Desktop Sales and Business Value Fundamentals ([Here](https://partner.microsoft.com/en-us/asset/collection/windows-virtual-desktop-sales-and-business-value-fundamentals#/))
   - Introduction and WVD overview keynote ([Here](https://partner.microsoft.com/en-us/training/assets/detail/introduction-and-wvd-overview-keynote-mp4))
@@ -59,7 +60,7 @@ I have tried to consolidate a lot of content available online to learn and to op
 - Windows Virtual Desktop slide deck ([Here](https://azurepartnerportal.blob.core.windows.net/media/Resources/Windows%20Virtual%20Desktop%20L100%20Overview%20Presentation%20v2.pptx))
 - Other useful Microsoft Partner Resources ([Here](https://www.microsoft.com/azure/partners/windows-virtual-desktop))
 
-#### Microsoft Docs ([Here](https://docs.microsoft.com/en-us/azure/virtual-desktop/overview))
+### Microsoft Docs ([Here](https://docs.microsoft.com/en-us/azure/virtual-desktop/overview))
 - What is Windows Virtual Desktop? ([Here](https://docs.microsoft.com/en-us/azure/virtual-desktop/overview))
   - Create a tenant in Windows Virtual Desktop ([Here](https://docs.microsoft.com/en-us/azure/virtual-desktop/tenant-setup-azure-active-directory))
   - Create a host pool with Azure Marketplace ([Here](https://docs.microsoft.com/en-us/azure/virtual-desktop/create-host-pools-azure-marketplace))
@@ -76,15 +77,15 @@ I have tried to consolidate a lot of content available online to learn and to op
 - Enable Azure Multi-Factor Authentication for Windows Virtual Desktop ([Here](https://docs.microsoft.com/en-us/azure/virtual-desktop/set-up-mfa))
 - 📢 What's new in Windows Virtual Desktop? ([Here](https://docs.microsoft.com/en-us/azure/virtual-desktop/whats-new))
 
-#### WVD Architectural – Planning Poster
+### WVD Architectural – Planning Poster
 
 - Desktop virtualization using Windows Virtual Desktop-service architecture ([Here](https://docs.microsoft.com/en-us/windows-server/remote/remote-desktop-services/media/wvd-poster-download.png))
 
-#### Windows Virtual Desktop UserVoice
+### Windows Virtual Desktop UserVoice
 
 - UserVoice forum for Windows Virtual Desktop ([Here](https://windowsvirtualdesktop.uservoice.com/forums/921118-general))
 
-#### Microsoft Tech Community
+### Microsoft Tech Community
 
 - Accelerate your RDS and VDI migration to Windows Virtual Desktop ([Here](https://techcommunity.microsoft.com/t5/Windows-IT-Pro-Blog/Accelerate-your-RDS-and-VDI-migration-to-Windows-Virtual-Desktop/ba-p/1079005))
 - A guide to Windows Virtual Desktop at Microsoft Ignite 2019 ([Here](https://techcommunity.microsoft.com/t5/Windows-IT-Pro-Blog/A-guide-to-Windows-Virtual-Desktop-at-Microsoft-Ignite-2019/ba-p/976831))
@@ -92,7 +93,7 @@ I have tried to consolidate a lot of content available online to learn and to op
 - Getting started with Windows Virtual Desktop ([Here](https://techcommunity.microsoft.com/t5/Windows-IT-Pro-Blog/Getting-started-with-Windows-Virtual-Desktop/ba-p/391054))
 - Getting started: Windows Virtual Desktop ARM-based Azure portal ([Here](https://techcommunity.microsoft.com/t5/windows-it-pro-blog/getting-started-windows-virtual-desktop-arm-based-azure-portal/ba-p/1374466))
 
-#### Microsoft Mechanics
+### Microsoft Mechanics
 
 - Windows Virtual Desktop Essentials - Intro and full tour ([Here](https://www.youtube.com/watch?v=NQFtI3JLtaU&amp;list=PLXtHYVsvn_b8KAKw44YUpghpD6lg-EHev))
   - Windows Virtual Desktop - How-to - Step 1: Prepare ([Here](https://www.youtube.com/watch?v=yAKmuZpwVyg))
@@ -103,7 +104,7 @@ I have tried to consolidate a lot of content available online to learn and to op
 - How to migrate Virtual Desktop Infrastructure (VDI) to Azure and Windows Virtual Desktop ([Here](https://youtu.be/rkKaWT-tN54))
 - Windows Virtual Desktop updates for admins (2020) ([Here](https://youtu.be/zmsTD9Hd-xY))
 
-#### Accelerate Your Windows Virtual Desktop Deployment (Introducing WVD Spring 2020 Edition!)
+### Accelerate Your Windows Virtual Desktop Deployment (Introducing WVD Spring 2020 Edition!)
 
 - Intro to Windows Virtual Desktop - What's coming with the service ([Here](https://mediastream.microsoft.com/events/2020/2003/WVDVE/player/WVDVE.html))
 - Prepare your environment for Windows Virtual Desktop ([Here](https://medius.studios.ms/Embed/video-nc/Pieter-Wigleven))
@@ -115,11 +116,11 @@ I have tried to consolidate a lot of content available online to learn and to op
 - Diagnostics in your Windows Virtual Desktop Environment ([Here](https://medius.studios.ms/Embed/video-nc/Eva-Seydl))
 - Deployment best practices for latency-sensitive workloads ([Here](https://medius.studios.ms/Embed/video-nc/Denis-Gundarev))
 
-#### US Partner Windows Virtual Desktop Resource GitHub Repository ([Here](https://github.com/Azure/azure-ocp-samples/tree/master/Windows%20Virtual%20Desktop))
+### US Partner Windows Virtual Desktop Resource GitHub Repository ([Here](https://github.com/Azure/azure-ocp-samples/tree/master/Windows%20Virtual%20Desktop))
 
 - Windows Virtual Desktop Cost Solution Configurator ([Here](https://github.com/Azure/azure-ocp-samples/blob/master/Windows%20Virtual%20Desktop/Pricing/Solution%20Configurator%20.xlsm)) + documentation ([Here](https://github.com/Azure/azure-ocp-samples/blob/master/Windows%20Virtual%20Desktop/Pricing/Solution%20Configurator%20How%20To.pptx))
 
-#### Azure Academy | Windows Virtual Desktop | WVD Series ([Here](https://www.youtube.com/playlist?list=PL-V4YVm6AmwXGvQ46W8mHkpvm6S5IIitK)) (Thank You! [Dean Cefola](https://twitter.com/MSAzureAcademy))
+### Azure Academy | Windows Virtual Desktop | WVD Series ([Here](https://www.youtube.com/playlist?list=PL-V4YVm6AmwXGvQ46W8mHkpvm6S5IIitK)) (Thank You! [Dean Cefola](https://twitter.com/MSAzureAcademy))
 
 - Windows Virtual Desktop - #01 - Deployment ([Here](https://www.youtube.com/watch?v=qtx3rippZJQ&amp;list=PL-V4YVm6AmwXGvQ46W8mHkpvm6S5IIitK&amp;index=13))
 - Windows Virtual Desktop - #02 - Management ([Here](https://www.youtube.com/watch?v=1q2ecz_mYeA&amp;list=PL-V4YVm6AmwXGvQ46W8mHkpvm6S5IIitK&amp;index=12))
@@ -152,7 +153,7 @@ I have tried to consolidate a lot of content available online to learn and to op
 - Windows Virtual Desktop - #30 - Before you turn off your Windows Virtual Desktop VMs YOU NEED TO WATCH THIS... ([Here](https://www.youtube.com/watch?v=1R0S5fpCm18))
 - Windows Virtual Desktop - #31 - You've never seen an Image Pipeline like this one | Azure Image Builde ([Here](https://www.youtube.com/watch?v=zIdOutv0doE))
   
-#### Ciraltos - Travis Roberts - YouTube Video's
+### Ciraltos - Travis Roberts - YouTube Video's
 
 - Automatically Start and Stop VM's in a Windows Virtual Desktop Host Pool with Azure Automation ([Here](https://www.youtube.com/watch?v=EUpPY6ateKA))
 - Azure Windows Virtual Desktop Load Balancing ([Here](https://www.youtube.com/watch?v=dRTcLtKVWZE))
@@ -162,7 +163,7 @@ I have tried to consolidate a lot of content available online to learn and to op
 - Windows Virtual Desktop JoinDomain Error ([Here](https://youtu.be/1RCCjpsTqcI))
 - Auto Start and Stop Session Hosts in Windows Virtual Desktop Spring Update (ARM) with Azure Function ([Here](https://youtu.be/gdrYMPwCB9w))
 
-#### Blogs / Video
+### Blogs / Video
 
 - Deploying Windows Virtual Desktop host pools with Terraform ([Here](https://techcommunity.microsoft.com/t5/windows-it-pro-blog/deploying-windows-virtual-desktop-host-pools-with-terraform/ba-p/1225555))
 - How to deploy a Windows Virtual Desktop host pool using Infrastructure as code from Azure DevOps (by Tom Hickling) ([Here](http://xenithit.blogspot.com/2020/03/how-to-deploy-windows-virtual-dekstop.html))
@@ -187,15 +188,17 @@ I have tried to consolidate a lot of content available online to learn and to op
   - How to get the Windows Virtual Desktop – Remote Desktop client for Windows – Insider version ([Here](https://www.robinhobo.com/how-to-get-the-windows-virtual-desktop-remote-desktop-client-for-windows-insider-version/))
 
   
-#### Windows Virtual Desktop related Blogs from [Micha Wets (MVP)](https://www.linkedin.com/in/micha-wets-0b994a5/)
+### Windows Virtual Desktop related Blogs from [Micha Wets (MVP)](https://www.linkedin.com/in/micha-wets-0b994a5/)
+
   - Solution for the 0x204 error when connecting to Windows Virtual Desktop ([Here](https://www.cloud-architect.be/2020/04/19/solution-for-the-0x204-error-when-connecting-to-windows-virtual-desktop-wvd/))
   - Windows Virtual Desktop running on Ephemeral OS Disks ([Here](https://www.cloud-architect.be/2019/07/15/windows-virtual-desktop-running-on-ephemeral-os-disks/))  
   - Windows virtual desktop ARM templates for the Spring 2020 edition ([Here](https://www.cloud-architect.be/2020/06/19/windows-virtual-desktop-arm-templates-for-the-spring-2020-edition/))  
-  - 📢 Windows Virtual Desktop Spring 2020 edition workshop ([Here](https://www.cloud-architect.be/2020/06/22/windows-virtual-desktop-spring-2020-edition-workshop/)) ([Presentation](https://michawets.github.io/CA-Microsoft-WVD_ARM-Workshop/Presentation/MSFT%20Workshop%20-%20Windows%20Virtual%20Desktop.pdf)) ([Video Part 1](https://youtu.be/__Z4-zCNdlI)) ([Video Part 2](https://youtu.be/_j3IQfPfo_Q)) ([Video Part 3](https://youtu.be/6WCqaWWtyfY)) ([Hands On Lab Instructions](https://aka.ms/WVDWorkshop))
+  - Windows Virtual Desktop Spring 2020 edition workshop ([Here](https://www.cloud-architect.be/2020/06/22/windows-virtual-desktop-spring-2020-edition-workshop/)) ([Presentation](https://michawets.github.io/CA-Microsoft-WVD_ARM-Workshop/Presentation/MSFT%20Workshop%20-%20Windows%20Virtual%20Desktop.pdf)) ([Video Part 1](https://youtu.be/__Z4-zCNdlI)) ([Video Part 2](https://youtu.be/_j3IQfPfo_Q)) ([Video Part 3](https://youtu.be/6WCqaWWtyfY)) ([Hands On Lab Instructions](https://aka.ms/WVDWorkshop))
 
     
-#### Windows Virtual Desktop related Blogs from [Freek Berson (MVP)](https://www.linkedin.com/in/freekberson/)
-  - The next big innovation in Windows Virtual Desktop is here! ([Here](https://www.linkedin.com/pulse/next-big-innovation-windows-virtual-desktop-here-freek-berson/))
+### Windows Virtual Desktop related Blogs from [Freek Berson (MVP)](https://www.linkedin.com/in/freekberson/)
+
+- The next big innovation in Windows Virtual Desktop is here! ([Here](https://www.linkedin.com/pulse/next-big-innovation-windows-virtual-desktop-here-freek-berson/))
   - Migrating your existing WVD Workloads to WVD Spring Update! ([Here](https://medium.com/wortell/migrating-your-existing-wvd-workloads-to-wvd-spring-update-df942e1db5af))
   - Using WVD to provide secure and easy access to a management server in Azure! ([Here](https://medium.com/wortell/using-wvd-to-provide-secure-and-easy-access-to-a-management-server-in-azure-dd4b48649e5c))
   - Test driving the Microsoft Teams AV Redirection and media optimizations preview for WVD! ([Here](https://medium.com/wortell/test-driving-the-microsoft-teams-av-redirection-and-media-optimizations-preview-for-wvd-ffd14ea26719))
@@ -203,16 +206,21 @@ I have tried to consolidate a lot of content available online to learn and to op
   
 
     
-#### Windows Virtual Desktop related Blogs from [Patrick Kohler](https://wvdlogix.net/about)
+### Windows Virtual Desktop related Blogs from [Patrick Kohler](https://wvdlogix.net/about)
+
   - Windows Virtual Desktop Host Pool Automation - Part 1 ([Here](https://wvdlogix.net/windows-virtual-desktop-host-pool-automation))
   - Windows Virtual Desktop Host Pool Automation - Part 2 ([Here](https://wvdlogix.net/windows-virtual-desktop-host-pool-automation-2))
   - Windows Virtual Desktop Host Pool Automation - Part 3 ([Here](https://wvdlogix.net/windows-virtual-desktop-host-pool-automation-part-3))([Video](https://youtu.be/M391QSEO1kM))
   - The complete guide: Microsoft Teams on WVD ([Here](https://wvdlogix.net/complete-guide-teams-on-wvd))
 
     
-#### Windows Virtual Desktop related Blogs from [Christiaan Brinkhoff](https://www.christiaanbrinkhoff.com/about-me/) (Microsoft GBB WVD)
+### Windows Virtual Desktop related Blogs from [Christiaan Brinkhoff](https://www.christiaanbrinkhoff.com/about-me/) (Microsoft GBB WVD)
+
   - Windows Virtual Desktop technical (2020 spring update – ARM-based model public preview) deployment walkthrough ([Here](https://www.christiaanbrinkhoff.com/2020/05/01/windows-virtual-desktop-technical-2020-spring-update-arm-based-model-deployment-walkthrough/))
   - Youtube – Windows Virtual Desktop spring update (ARM-based) Azure Portal demo ([Here](https://youtu.be/IPrc-KQ5_so/))
   - The future of application virtualization. Learn here how to create and configure MSIX app attach package(s) containers on Windows 10 Enterprise multi and single-session for Windows Virtual Desktop ([Here](https://www.christiaanbrinkhoff.com/2020/05/28/the-future-of-application-virtualization-learn-here-how-to-create-and-configure-msix-app-attach-packages-containers-on-windows-10-enterprise-multi-and-single-session-build-2004-and-higher-for-win/))
   - Learn how to install and configure Microsoft Teams with AV Redirection media optimizations on Windows Virtual Desktop ([Here](https://www.christiaanbrinkhoff.com/2020/05/29/learn-how-to-install-and-configure-microsoft-teams-with-av-redirection-media-optimizations-on-windows-virtual-desktop/))
   - Learn about the three different options to remote control (shadow) your Windows Virtual Desktop sessions for helpdesk users ([Here](https://www.christiaanbrinkhoff.com/2020/06/19/learn-about-the-different-options-to-remote-control-shadow-your-windows-virtual-desktop-sessions-for-helpdesk-users/))
+
+
+
