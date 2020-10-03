@@ -1,6 +1,6 @@
 # All You Need To Know on Windows Virtual Desktop
 
-*last update: 23/Sept/2020*
+*last update: 03/Oct/2020*
 
 I have tried to consolidate a lot of content available online to learn and to operate Windows Virtual Desktop in Azure. I try to update the list from time to time. If you come across interesting information related to WVD, please contact me via [LinkedIn](https://www.linkedin.com/in/roelsbart/).
 
@@ -83,6 +83,8 @@ I have tried to consolidate a lot of content available online to learn and to op
 - Enable Azure Multi-Factor Authentication for Windows Virtual Desktop ([Here](https://docs.microsoft.com/en-us/azure/virtual-desktop/set-up-mfa))
 - Use Azure Advisor with Windows Virtual Desktop ([Here](https://docs.microsoft.com/en-us/azure/virtual-desktop/azure-advisor))
 - Use Microsoft Teams on Windows Virtual desktop ([Here](https://docs.microsoft.com/en-us/azure/virtual-desktop/teams-on-wvd))
+- Windows Virtual Desktop QuickStart ([Here](https://aka.ms/WVDQuickStart))
+- Scale session hosts using Azure Automation ([Here](https://aka.ms/WVDAutoscale))
 
 
 ### WVD Architectural – Planning Poster
@@ -99,6 +101,8 @@ I have tried to consolidate a lot of content available online to learn and to op
 - Windows Virtual Desktop - upcoming admin experience + recent updates (Microsoft Ignite) ([Here](https://www.youtube.com/watch?v=dCR9U7bODm0&amp;list=PLXtHYVsvn_b8KAKw44YUpghpD6lg-EHev&amp;index=6))
 - How to migrate Virtual Desktop Infrastructure (VDI) to Azure and Windows Virtual Desktop ([Here](https://youtu.be/rkKaWT-tN54))
 - Windows Virtual Desktop updates for admins (2020) ([Here](https://youtu.be/zmsTD9Hd-xY))
+- Windows Virtual Desktop 2020 updates | Microsoft Ignite 2020 ([Here](https://youtu.be/nLmBc9Khw8c))
+
 
 ### Accelerate Your Windows Virtual Desktop Deployment (Introducing WVD Spring 2020 Edition!)
 
