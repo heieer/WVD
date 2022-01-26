@@ -1,20 +1,22 @@
-# All You Need To Know on Windows Virtual Desktop
+# All You Need To Know on Azure Virtual Desktop
 
-*last update: 03/Oct/2020*
+*last update: 26/01/2022*
 
-I have tried to consolidate a lot of content available online to learn and to operate Windows Virtual Desktop in Azure. I try to update the list from time to time. If you come across interesting information related to WVD, please contact me via [LinkedIn](https://www.linkedin.com/in/roelsbart/).
+I have tried to consolidate a lot of content available online to learn and to operate Azure Virtual Desktop (AVD) formerly known as Windows Virtual Desktop (WVD). I try to update the list from time to time. If you come across interesting information related to AVD, please contact me via [LinkedIn](https://www.linkedin.com/in/roelsbart/).
 
 ## What's new? 📢
 
-- What's new in Windows Virtual Desktop? ([Here](https://docs.microsoft.com/en-us/azure/virtual-desktop/whats-new))
-- Windows Virtual Desktop **UserVoice** ([Here](https://windowsvirtualdesktop.uservoice.com/forums/921118-general))
+- What's new in Azure Virtual Desktop? ([Here](https://docs.microsoft.com/en-us/azure/virtual-desktop/whats-new))
+- Azure Virtual Desktop updates ([Here](https://azure.microsoft.com/en-us/updates/?product=virtual-desktop)
 
 
 ## Relevant exams
 
-- AZ-104 : Exam AZ-104 : Microsoft Azure Administrator ([Here](https://docs.microsoft.com/en-us/learn/certifications/exams/AZ-104)) (Virtual Training Session (*MS Partner Only*): [Here](https://partner.microsoft.com/en-us/training/assets/collection/az-103-microsoft-azure-administrator#/))
-- MD-100 : Exam MD-100 : Exam Windows 10 ([Here](https://docs.microsoft.com/en-us/learn/certifications/exams/md-100)) (Virtual Training Session (*MS Partner Only*): [Here](https://partner.microsoft.com/en-us/training/assets/collection/md-100-windows-10-1#/))  
-- MD-101 : Exam MD-101: Managing Modern Desktops ([Here](https://docs.microsoft.com/en-us/learn/certifications/exams/md-101)) (Virtual Training Session (*MS Partner Only*): [Here](https://partner.microsoft.com/en-us/training/assets/collection/md-101-managing-modern-desktops-1#//))  
+- AZ-140 : Exam AZ-140 | Configuring and Operating Microsoft Azure Virtual Desktop ([Here](https://docs.microsoft.com/en-us/learn/certifications/exams/az-140))
+  - Virtual Training Sessions: ([Here](https://partner.microsoft.com/en-us/training/assets/collection/implementing-windows-virtual-desktop#/))
+
+- AZ-104 : Exam AZ-104 | Microsoft Azure Administrator ([Here](https://docs.microsoft.com/en-us/learn/certifications/exams/AZ-104))
+  - Virtual Training Sessions: ([Here](https://partner.microsoft.com/en-us/training/assets/collection/az-103-microsoft-azure-administrator#/))
 
 
 ## Relevant Role Based Certifications
@@ -22,8 +24,12 @@ I have tried to consolidate a lot of content available online to learn and to op
 - Microsoft Certified: Azure Administrator Associate ([Here](https://docs.microsoft.com/en-us/learn/certifications/azure-administrator))  
 - Microsoft 365 Certified: Modern Desktop Administrator Associate ([Here](https://docs.microsoft.com/en-us/learn/certifications/m365-modern-desktop))  
 
-## Selected Learning Activities
+## TDB sorted
 
+
+ - Microsoft Azure Virtual Desktop technical assessment: ([Here](https://partner.microsoft.com/en-us/training/assets/collection/microsoft-windows-virtual-desktop-technical-assessment#/))
+  
+## Selected Learning Activities
 ### Microsoft Learn
 
 - Deliver remote desktops and apps from Azure with Windows Virtual Desktop ([Here](https://docs.microsoft.com/en-us/learn/paths/m365-wvd/))
